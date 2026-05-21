@@ -11,6 +11,8 @@ api.interceptors.request.use((config) => {
   if (TEMP_TOKEN) {
     config.headers.Authorization = `Bearer ${TEMP_TOKEN}`;
   }
+  // Bypass localtunnel splash screen
+  config.headers['Bypass-Tunnel-Reminder'] = 'true';
   return config;
 });
 

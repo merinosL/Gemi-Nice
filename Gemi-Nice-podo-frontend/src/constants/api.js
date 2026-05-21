@@ -1,4 +1,4 @@
-export const API_URL = 'https://zone-plots-kit-shortly.trycloudflare.com';
+export const API_URL = 'https://podo-backend-kloo.onrender.com';
 
 // Buraya backend'den aldığınız token'ı yapıştırın.
 // Örn: Postman'de POST /api/auth/register veya /api/auth/login yapıp dönen token'ı koyun.
