@@ -1,4 +1,17 @@
-# Podo - Sanal Hayvan ve Görev Uygulaması
+# Podo - Gamified Task & Virtual Pet Application
+
+## 🌟 Proje Hakkında (Amacımız Nedir?)
+**Podo**, kullanıcıların günlük görevlerini (çalışma, ödev vb.) yerine getirirken motivasyonlarını artırmayı hedefleyen **oyunlaştırılmış (gamified) bir verimlilik ve eğitim** uygulamasıdır. 
+
+Sıradan bir "yapılacaklar listesi (To-Do)" uygulamasından farklı olarak Podo'da, size emanet edilmiş **sanal bir hayvanınız** bulunur.
+- Kullanıcılar sisteme ders notlarını veya görevlerini PDF olarak yükler.
+- Arka planda çalışan **Google Gemini AI**, bu dosyalardan otomatik olarak **Quiz'ler (testler)** üretir.
+- Kullanıcılar bu testleri başarıyla çözdüklerinde sanal paralar (kemik/ödül) kazanırlar.
+- Kazanılan bu ödüllerle sanal hayvanları olan Podo'yu besleyip mutlu edebilirler. Görevler aksatılırsa Podo hastalanabilir ve en nihayetinde onu kaybedebilirsiniz.
+
+**Kısacası:** *Öğrenmeyi ve görev yapmayı eğlenceli, alışkanlık yaratan ve sevimli bir deneyime dönüştürüyoruz!*
+
+---
 
 Bu proje bir hackathon kapsamında geliştirilmiştir. Proje hem **Frontend (React Native / Expo)** hem de **Backend (Node.js / Express)** bileşenlerinden oluşmaktadır. 
 
